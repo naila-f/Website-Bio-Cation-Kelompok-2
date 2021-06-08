@@ -1,0 +1,30 @@
+*{margin: 0; padding: 0; font-family: arial;}
+.header{ width: 70%; margin-left: 15%; background: #183455; overflow: hidden;}
+.logo{float: left; margin-left: 5%; padding: 15px;}
+.logo h1{font-size: 30px; color: #fff; text-transform: uppercase; }
+a{text-decoration: none;}
+nav{width: auto; margin-right: 5%;}
+nav li{list-style: none;}
+nav li{display: inline;}
+nav ul li a{display: inline-block; padding: 25px 13px; float: right; color: #fff; transition: 0.3s}
+nav ul li a:hover{background: #fff; color: #f1f3f5}
+.span{margin: 10px 0 10px 0; padding: 10px; background: #1e4575; color: #fff; display: inherit;}
+.spann{margin: 10px 0 10px 0; padding: 10px; background: #183455; color: #fff; display: inherit;}
+.spannn{margin: 10px 0 10px 0; padding: 10px; background: #1e4575; color: #fff; display: left;}
+.wrapper-content{width: 70%; margin-left: 15%; background: rgb(246, 248, 250); overflow: hidden; margin-top: 30px;}
+.wrap-content{width: 400px; float: left; margin-left: 5%; margin-top: 30px; margin-bottom: 100px;}
+.content img{width: 400px;}
+.content h2{color: #ecf1f7; font-size: 25px;}
+.content b{font-size: 10px; margin-right: 10px; background: red; color: #fff; border-radius: 2px; padding: 5px;}
+.content p{color: rgb(3, 2, 2); font-size: 15px; margin-top: 10px; }
+input[type="submit"]{margin: 10px 0 10px 0; padding: 10px; background: #f2f3f5; outline: 0; border: 0; color: #fff}
+.wrap-sidebar{float: right; margin-right: 5%; width: 300px; margin-top: 20px;}
+.wrap-sidebarr{float: left; margin-left: 2%; width: 450px; margin-top: 15px;}
+.sidebar-content p{color: rgb(3, 2, 2); font-size: 15px; margin-top: 10px;}
+.sidebar-content{border: 1px; solid: #eee; padding: 10px;}
+.sidebar-content h2{font-size: 20px; color: #f0f3f7; padding: 2px;}
+.sidebar-content img{width: 250px; height: 100px;}
+.footer{width: 70%; margin-left: 15%; background: #183455;}
+.footer-content{ height: 60px; padding-top: 30px; margin-bottom: 100px;}
+.footer-content h3{font-size: 14px; color: #fff; float: inherit; margin-left: 25%;}
+.footer-content h4{float: right; margin-right: 5%; color: #fff; font-size: 12px;}
